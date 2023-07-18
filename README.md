@@ -2,7 +2,7 @@
 
 ##Demo
 
-![recordBMI](https://github.com/Norah-rsn/bmi/assets/102757083/b15d1e94-0c02-4788-917d-888fda439d7d)
+![recordBMI](https://github.com/Norah-rsn/bmi/assets/102757083/b15d1e94-0c02-4788-917d-888fda439d7d | width=200, height= 400)
 
 ## Getting Started
 
