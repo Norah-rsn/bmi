@@ -1,6 +1,8 @@
-# bmi
+# bmi Calculator with Flutter
 
-A new Flutter project.
+##Demo
+
+![recordBMI](https://github.com/Norah-rsn/bmi/assets/102757083/b15d1e94-0c02-4788-917d-888fda439d7d)
 
 ## Getting Started
 
